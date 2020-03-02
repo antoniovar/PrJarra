@@ -11,7 +11,13 @@ con	capacidad	menor"	+
 this.capacidad=capacidadInicial;
 }
 //		metodos
-1
+//Metodo 1
+public	int	capacidad(){
+return	this.capacidad;
+}
+public	int	cantidad(){
+return	this.cantidad;
+}
 2
 //Metodo 3
 public	void	llenaDesde(Jarra	j){
